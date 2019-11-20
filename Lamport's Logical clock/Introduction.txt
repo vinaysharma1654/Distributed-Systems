@@ -1,0 +1,1 @@
+Lamport's Logical Clock for 2 processes
